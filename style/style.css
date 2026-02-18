@@ -34,7 +34,15 @@ main{
 .offer-heading{
     font-size: 88px;
     color: #FF0000;
-    margin-top: 120px;
+    margin: 120px 0px 48px 0px;
+}
+.offer-holiday-heading{
+    font-size: 24px;
+    color: #FF0000;
+}
+.offer-categories{
+    font-size: 48px;
+    margin-bottom: 48px;
 }
 .offer-photo{
     margin: auto;
