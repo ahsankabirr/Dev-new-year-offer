@@ -109,3 +109,85 @@ main{
 .event-btn{
     margin-top: 48px;
 }
+
+/* celebration section start */
+.celebration-section{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    gap: 70px;
+}
+.new-offer{
+    color: #FF0000;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+}
+.celebration-coming-soon{
+    font-family: "Merriweather", serif;
+    font-size: 48px;
+    font-weight: bold;
+    margin-bottom: 22px;
+    margin-top: 16px;
+}
+/* Offer section */
+.holiday-function{
+    margin-top: 120px;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+}
+.holiday-headline{
+    font-size: 72px;
+    font-weight: 800;
+    font-family: "Merriweather", serif;
+    margin: 18px 0px 16px 0px;
+}
+.holidays{
+    color: #FF0000;
+}
+.holiday-description {
+    margin-bottom: 64px;
+    font-size: 20px;
+    color: rgba(7, 2, 17, 0.6);
+    font-family: "Inter", sans-serif;
+}
+.offer-description{
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    color: #070211;
+    
+}
+.celebration-img{
+    border: solid 15px #FF0000;
+    border-radius: 50%;
+    padding: 49px;
+}
+.celebration-year{
+    font-size: 48px;
+    font-family: "Inter", sans-serif;
+    color: #FF0000;
+    margin-bottom: 48px;
+}
+
+.offer-description{
+    margin-bottom: 43px;
+    
+}
+
+.holiday-offer{
+    display: flex;
+    justify-content: space-between;
+    background-image:url("../images/Rectangle\ 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.offer-img{
+    width: 674px;
+    height: 577px;
+    z-index: 1;
+}
+.discount-img{
+    width: 305.69px;
+    height: 305.69px;
+    z-index: 1;
+}
+
